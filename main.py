@@ -44,7 +44,7 @@ try:
 """
 
     second_response = client.chat.completions.create(
-        model="meta-llama/Llama-3.1-8B-Instruct:cerebras",
+        model="meta-llama/Llama-3.1-8B-Instruct",
         messages=[
             {
                 "role": "user",
