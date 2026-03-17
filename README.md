@@ -9,7 +9,3 @@ python main.py
 
 В my_config.py ввести токен
 
-Что делать:
-
-1. запускаем через python main.py
-2. пишем запрос
